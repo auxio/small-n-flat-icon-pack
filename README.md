@@ -2,7 +2,7 @@
 A small and flat icon pack for Sentora
 
 #credits
-All credits go to paomedia, i only converted the SVG files and sorted them.. :)
+All credits go to paomedia, i only resized and sorted them.. :)
 http://paomedia.github.io/small-n-flat/
 
 
